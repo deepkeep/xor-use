@@ -1,5 +1,7 @@
 # xor-use
 
+This repository demonstrates how to use a published neural network.
+
 ## Usage
 
 1. Download and extract the xor network: `curl -LO www.deepkeep.co/FredrikNoren/xor/package.zip && unzip package.zip -d xor && rm package.zip`
